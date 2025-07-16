@@ -27,7 +27,7 @@ This project explores a restaurant dataset to uncover key insights using *Power 
 ## 📊 Visuals Preview
 
 ### Level 1 Dashboard  
-![Level 1 Dashboard](level1.png)
+![Level 1 Dashboard](level 1.png)
 
 ### Level 2 Dashboard  
 ![Level 2 Dashboard](level2.png)
